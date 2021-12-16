@@ -1,4 +1,70 @@
+
 The Plan
+
+/*************** Output: *******************************/
+
+AK 
+Optic - red dot
+Stock - no stock
+
+/****************** ***********************/
+-GUI (Main)
+ * Create a instance object 
+
+=Weapons 
+ * array list -attachments 
+ * Attachment Gen
+ * getAttachments
+ * getName
+ * isBad
+Weapon types(AR, SMG, LMGs, Snipers, TR , //Shotguns, //Pistols)
+
+ <Random number 1-8, that's the max num of attachments>
+Attachment types (Optics, Muzzle, Barrels, Body, Under-barrel, Magazine, Handle, Stock) 
+
+-AR 
+ * Name 
+ (ENUM ( ) )
+ * all attachment
+
+  
+- SMG 
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+
+- LMG 
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+
+- Snipers
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+
+- Tactical Rifles 
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+
+
+/*
+- Shotguns 
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+
+- Pistols 
+ * Name 
+ (ENUM ( ) )
+ * all attachment 
+*/
+
+
+
+
+
 
 
 
